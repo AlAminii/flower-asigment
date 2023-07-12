@@ -69,13 +69,46 @@
     display:flex;
     background-color:#E554730D ;
     padding: 120px;
-    /* gap: 50px; */
+    gap: 50px;
     justify-content: space-around;
+    text-align: center;
+    align-items: center;
 }
 .hoatdeal-text{
     text-align: center;
     align-items: center;
-  
-    
-    
 }
+.instagram-section{
+   background-color:#FFF; ;
+   text-align: center;
+   padding: 50px;
+}
+.img-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+  
+   
+}
+.box-img{
+   align-items: center;
+   margin: 20px;
+}
+.img-uper{
+  background-image: url("./images/Flower Asset/Rectangle 9.png");
+ padding: 150px;
+}
+.tex-uper{
+    text-align: center;
+   
+}
+#deals-feature .update-banner {
+    padding: 110px 0;
+ background-image: url('./images/Flower Asset/Rectangle 9.png');
+    background-position: center;
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+  
